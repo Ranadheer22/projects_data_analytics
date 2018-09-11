@@ -72,5 +72,6 @@ cf6<-table(pred6,Train1[,20])
 cf6
 cf7<-table(pred7,Train1[,20])
 cf7
-
+cf10<-table(pred7,Train1[,20])
+cf10
 
